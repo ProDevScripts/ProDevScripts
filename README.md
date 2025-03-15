@@ -3,6 +3,21 @@
 </p>
 
 
+# 🚀 ProDevScripts  
+Professional Automation Scripts & Plugins  
+
+💡 Automating development with Python, WordPress, and custom scripts  
+🌍 Remote | Worldwide  
+🔗 Website: [ProDevScripts.com](https://ProDevScripts.com)  
+📩 Contact: [hello@prodevscripts.com](mailto:hello@prodevscripts.com)  
+
+## 📌 What You'll Find Here  
+✅ Python Automation Scripts  
+✅ WordPress Plugins & Tools  
+✅ Ready-to-Use Development Templates  
+
+---
+🌟 Follow for updates & new releases!  
 <!--
 **ProDevScripts/ProDevScripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
